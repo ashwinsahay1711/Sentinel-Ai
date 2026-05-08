@@ -1,0 +1,6 @@
+{
+  "name": "Sentinel AI: Code Analyst",
+  "description": "Intelligent code review assistant with RAG-powered context awareness and security auditing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
